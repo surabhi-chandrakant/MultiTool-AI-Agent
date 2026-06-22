@@ -1,0 +1,12 @@
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+document_store/
+uploads/
+.env
+*.pkl
+.DS_Store
